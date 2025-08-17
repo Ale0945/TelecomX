@@ -27,6 +27,7 @@ El objetivo principal es analizar la evasión de clientes y generar métricas de
 - Python
 - Pandas
 - Google Colab
+- Chat GPT
 
 ## Uso
 1. Clonar este repositorio.
